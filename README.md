@@ -12,7 +12,7 @@
 
 <p align="center"> 
   <kbd>
-    <a  target="_blank"><img src="exam.png">
+    <a  target="_blank"><img src="thesis.png">
   </a>
   </kbd>
 </p>
